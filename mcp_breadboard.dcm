@@ -1,0 +1,5 @@
+EESchema-DOCLIB  Version 2.0
+$CMP LM66100DCKR
+D Hot Swap Voltage Controllers 1.5-V to 5.5-V, 1.5-A, 0.5-uA IQ ideal diode with Integrated FET 6-SC70 -40 to 105
+F http://www.ti.com/lit/ds/symlink/lm66100.pdf
+$ENDCMP

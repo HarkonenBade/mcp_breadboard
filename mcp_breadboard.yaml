@@ -1,0 +1,14 @@
+- name: LM66100DCKR
+  designator: U
+  datasheet: http://www.ti.com/lit/ds/symlink/lm66100.pdf
+  footprint: Package_TO_SOT_SMD:SOT-363_SC-70-6
+  description: Hot Swap Voltage Controllers 1.5-V to 5.5-V, 1.5-A, 0.5-uA IQ ideal diode with Integrated FET 6-SC70 -40 to 105
+  ordercodes:
+    - [Mouser, 595-LM66100DCKR]
+  pins:
+    - - - [VIN, 1, pwrin]
+      - - [~CE, 3, passive]
+      - - [GND, 2, pwrin]
+    - - - [VOUT, 6, pwrout]
+      - - [ST, 5, passive]
+      - - [NC, 4, nc]

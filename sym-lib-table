@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "mcp_breadboard")(type "Legacy")(uri "${KIPRJMOD}/mcp_breadboard.lib")(options "")(descr ""))
+)
